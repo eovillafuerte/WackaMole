@@ -19,6 +19,27 @@
 
 }
 
+.whackable-game_space_two {
+  height: 356px;
+  position: relative;
+  width: 640px;
+
+}
+.wgs_mole-head_two {
+height: 356px;
+position: absolute ;
+width: 376px;
+left: 809px;
+}
+.wgs_dirt-pile_two {
+height: 220px;
+position: absolute ;
+width: 640px;
+bottom:225px;
+left: 700px;
+
+}
+
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 /* .sb {
