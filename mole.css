@@ -10,6 +10,7 @@
   position: absolute ;
   width: 376px;
   left: 117px;
+
 }
 .wgs_dirt-pile {
   height: 220px;
@@ -30,6 +31,7 @@ height: 356px;
 position: absolute ;
 width: 376px;
 left: 809px;
+
 }
 .wgs_dirt-pile_two {
 height: 220px;
@@ -39,6 +41,12 @@ bottom:225px;
 left: 700px;
 
 }
+
+.wgs_mole-head--hidden {
+margin-top: 600px;
+}
+
+
 
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
