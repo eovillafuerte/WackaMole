@@ -39,11 +39,12 @@ position: absolute ;
 width: 640px;
 bottom:225px;
 left: 700px;
-
+margin-top: 500px;
+overflow: hidden;
 }
 
 .wgs_mole-head--hidden {
-margin-top: 600px;
+margin-top: 480px;
 }
 
 
